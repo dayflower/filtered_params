@@ -1,0 +1,13 @@
+.hg
+.hgignore
+*.swp
+.ruby-version
+.bundle
+.config
+Gemfile.lock
+vendor
+.yardoc
+doc
+*.gem
+coverage
+tmp
